@@ -11,6 +11,7 @@
 #left_ad,
 #center_ad02,
 .plus,
+.naver_power,
 #right_cont {
   display: none;
 }

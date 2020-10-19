@@ -6,6 +6,11 @@
 <summary>코드 보기</summary>
 
 ```css
+/* 맥에서 폰트 설정 */
+#contentDetail, span {
+    font-family: "돋움", Dotum, sans-serif, Arial;
+}
+
 /*광고 제거*/
 .top_ad,
 #left_ad,

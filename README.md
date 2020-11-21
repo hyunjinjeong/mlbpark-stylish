@@ -9,8 +9,9 @@
 /* 맥에서 폰트 설정 */
 #contentDetail,
 span,
-.list_today .title {
-    font-family: "돋움", Dotum, sans-serif, Arial;
+.lists .items .text .title a,
+.news_list a {
+    font-family: "돋움", Dotum, sans-serif, Arial !important;
 }
 
 /*광고 제거*/
